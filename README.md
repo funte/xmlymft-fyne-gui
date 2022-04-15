@@ -4,10 +4,10 @@
 🍌下载对应平台压缩包解压  
 | 系统 | 下载地址 |
 | -- | --- |
-| Widnows | [喜马拉雅免费听_win32.zip]() |  
-| | [喜马拉雅免费听_win64.zip]() |  
-| Linux | [喜马拉雅免费听_linux32.tar.gz](TODO:) |  
-| | [喜马拉雅免费听_linux64.tar.gz](TODO:) |  
+| Widnows | [喜马拉雅免费听_win32.zip](https://github.com/funte/xmlymft-fyne-gui/releases/download/1.0.0/xmlymft-windows-386.zip) |  
+| | [喜马拉雅免费听_win64.zip](https://github.com/funte/xmlymft-fyne-gui/releases/download/1.0.0/xmlymft-windows-amd64.zip) |  
+| Linux | [喜马拉雅免费听_linux32.tar.gz](https://github.com/funte/xmlymft-fyne-gui/releases/download/1.0.0/xmlymft-linux-386.tar.gz) |  
+| | [喜马拉雅免费听_linux64.tar.gz](https://github.com/funte/xmlymft-fyne-gui/releases/download/1.0.0/xmlymft-linux-amd64.tar.gz) |  
 
 
 🍌输入关键词并回车开始搜索专辑, 点击专辑进入播放列表, 点击音频自动下载音频  
