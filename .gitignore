@@ -1,0 +1,8 @@
+.vscode
+fyne-cross
+*.syso
+release
+
+config.json
+server.exe
+*.exe.syso

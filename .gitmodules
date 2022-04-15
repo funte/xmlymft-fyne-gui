@@ -1,0 +1,3 @@
+[submodule "components/xmlymft"]
+	path = components/xmlymft
+	url = https://github.com/funte/xmlymft.git
